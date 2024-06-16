@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "battery-newport.gl.joinmc.link",
-          "assigned_srv": "battery-newport.gl.joinmc.link",
+          "assigned_domain": "shopping-nickel.gl.joinmc.link",
+          "assigned_srv": "shopping-nickel.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "ad9926af-e154-4a49-8188-1f7891b94668",
+          "id": "d726a5fb-cac9-4a43-a1de-10f548368d99",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 18083,
-          "port_start": 18082,
+          "port_end": 26467,
+          "port_start": 26466,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-16T06:29:29.781211Z",
+      "created_at": "2024-06-16T06:43:24.925481Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "d9055c07-e5e4-4dda-ba1b-c43aa5bfdc2c",
+      "id": "fc2edda6-16a4-437c-a251-300a27c72b37",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "9965b0fc-9b57-4cf0-b249-57b742ddfbac",
-          "agent_name": "from-key-a76a",
+          "agent_id": "c5d2fb97-8eec-44b2-9990-d3b4dff51428",
+          "agent_name": "from-key-294a",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
